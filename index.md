@@ -2,33 +2,38 @@
 title: Home
 ---
 
-# Workshop Template!
+# M., S. and M. Turn 80
 
-{% include figure.html img="uidaho-workshop.jpg" alt="intro image here" caption="Library workshop" width="75%" %}
+## 19 December 2026
 
-A minimal Jekyll theme for creating workshop websites.
+{% include figure.html img="uidaho-workshop.jpg" alt="intro image here" %}
 
-*Add your workshop abstract here!*
+This workshop is a gathering for colleagues and friends who want to
+celebrate Mariangiola Dezani-Ciancaglini, Simona Ronchi Della Rocca
+and Mario Coppo, whose 80th birthdays take place between 2026
+and 2027. Mariangiola, Simona and Mario are outstanding researchers
+in the community of theoretical computer science for their seminal
+contributions to the fields of λ-calculus, type theory and
+foundations of programming languages. They have been students of
+Corrado Böhm in the early 70's and spent most of their career at the
+Computer Science Department of the University of Torino, leading one
+of the largest research groups on formal methods for four
+decades. During this period they have been enthusiastic mentors for
+many young researchers now employed in prestigious institutions all
+over the world.
 
-Learn how to create a super quick easy website for a workshop by writing a few markdown files! 
-Host it for free on GitHub with gh-pages, and share!
-Fun!
+The workshop will take place at...
 
-*See also:* [workshop-template-b](https://evanwill.github.io/workshop-template-b/), Bootstrap version.
+## Schedule
 
-<div class="toc" markdown="1">
-## Contents:
+| 14:00 - 14:15 | **Welcome**   |
+| 14:15 - 15:00 | **Speaker 1** |
+| 15:00 - 15:45 | **Speaker 2** |
+| 15:45 - 16:30 | **Speaker 3** |
+| 16:30 - 17:15 | **Speaker 4** |
+| 17:15 - 17:30 | **Closing**   |
+| 19:00 - 23:00 | **Dinner**    |
+|               | Address       |
+|               |               |
 
-{% for lesson in site.pages %}
-{% if lesson.nav == true %}- [{{ lesson.title }}]({{ lesson.url | relative_url }}){% endif %}
-{% endfor %}
-</div>
 
-Hosted by [University of Idaho Library](http://www.lib.uidaho.edu/), {{ site.pub_year }}.
- 
-> built using [Jekyll](https://jekyllrb.com/) and [GitHub Pages](https://pages.github.com/)
->
-> images and content: cc-by-sa <a href="https://github.com/{{ site.github_username }}">{{ site.author }}</a> {{ site.pub_year}} (get [source code]({{ site.repo }})).
-> Last build date: {{ site.time | date: "%Y-%m-%d" }}.
->
-> <a href="http://creativecommons.org/licenses/by-sa/4.0/" rel="license"><img style="border-width: 0;" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" alt="Creative Commons License" /></a>

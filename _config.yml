@@ -8,18 +8,18 @@
 
 # Site settings
 # title appears in the header
-title: workshop-template
+title: Mariangiola, Mario and Simona Turn 80
 # description and keywords for meta tags
-description: "Create an OER workshop website quick and easy!"
-keywords: "workshops, OER, Open Education, websites, gh-pages, jekyll"
+description: "A workshop to celebrate Mariangiola, Mario and Simona's 80th birthdays"
+keywords: "Mariangiola Dezani-Ciancaglini, Mario Coppo, Simona Ronchi Della Rocca"
 
 # author settings for cc-by, appears in the footer
 author: evan will
-pub_year: 2018
-github_username: evanwill
+pub_year: 2026
+github_username: boystrange
 
 # add the full url for the github repository
-repo: "https://github.com/evanwill/workshop-template"
+repo: "https://github.com/boystrange/workshop-template"
 
 # site urls
 # Optional if using GitHub Pages! If building manually, these must be set correctly.
