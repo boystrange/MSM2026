@@ -36,4 +36,7 @@ The workshop will take place at...
 |               | Address       |
 |               |               |
 
+## Organisers
 
+* Mr. X, University of Neptune
+* Mrs. Y, University of Planet X
